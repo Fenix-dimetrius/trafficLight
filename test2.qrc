@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="traf">Traffic-Light-PNG-Image-40344.png</file>
+        <file alias="YellowOff">YellowOff.png</file>
+        <file alias="RedOff">RedOff.png</file>
+        <file alias="GreenOff">GreenOff.png</file>
+    </qresource>
+</RCC>

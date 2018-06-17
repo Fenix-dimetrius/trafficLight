@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="trafficLight">Traffic-Light-PNG-Image-40344.png</file>
+    </qresource>
+</RCC>
